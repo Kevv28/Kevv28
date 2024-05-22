@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kevil Rana
 - 👀 I’m interested in :Data Analysis,ML and Python
-- 🌱 I’m currently learning:MERN Stack
+- 🌱 I’m currently learning:Streamlit,EDA,Python Frameworks
 - 📫 How to reach me:https://www.linkedin.com/in/kevil-rana-61379a240
 
 
