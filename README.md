@@ -13,7 +13,7 @@ Hi! I'm Kevil Rana, a Data Analyst and Python Developer with a robust foundation
 ## 🔗 Links
 - **Email**: [kevil546rana@gmail.com](mailto:kevil546rana@gmail.com)
 - **LinkedIn**: [linkedin.com/in/kevilrana](https://linkedin.com/in/kevilrana)
-- **Website**:[About me] (https:/about-me-kevil.netlify.app/)
+- **Website**:https:/about-me-kevil.netlify.app/
 
 ---
 
