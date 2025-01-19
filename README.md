@@ -13,7 +13,6 @@ Hi! I'm Kevil Rana, a Data Analyst and Python Developer with a robust foundation
 ## 🔗 Links
 - **Email**: [kevil546rana@gmail.com](mailto:kevil546rana@gmail.com)
 - **LinkedIn**: [linkedin.com/in/kevilrana](https://linkedin.com/in/kevilrana)
-- **Website**:https:/about-me-kevil.netlify.app/
 
 ---
 
@@ -21,7 +20,7 @@ Hi! I'm Kevil Rana, a Data Analyst and Python Developer with a robust foundation
 
 - **Programming Languages**: Python, Java, JavaScript
 - **Frameworks & Tools**: ReactJS, Node.js, Flask, Tailwind CSS
-- **Data Science & Machine Learning**: Logistic Regression, XGBoost, Decision Tree, Random Forest
+- **Data Science & Machine Learning**: Logistic Regression, XGBoost, Decision Tree, Random Forest, Gen AI, LLM
 - **Web Development**: HTML, CSS, JavaScript, MongoDB
 - **DevOps & Cloud**: Kubernetes, Docker, AWS (EC2, S3, RDS, CloudFront)
 
