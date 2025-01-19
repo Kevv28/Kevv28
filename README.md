@@ -1,6 +1,6 @@
 # Kevil Rana
 
-**Aspiring Data Scientist and Software Developer | Passionate About Technology and Innovation**
+**Aspiring Data Scientist and Software Developer**
 
 ---
 
