@@ -6,7 +6,7 @@
 
 ## About Me
 
-Hi! I'm Kevil Rana, a Data Analyst and Python Developer with a robust foundation in Data Science and Information Technology. My expertise includes developing innovative AI-based applications, creating user-friendly platforms, and exploring cutting-edge data-driven solutions to solve real-world challenges.
+Hi! I'm Kevil Rana, a Data Analyst and Python Developer with a robust foundation in Data Science and Information Technology. My expertise includes developing innovative AI-based applications, creating user-friendly platforms, and exploring to solve real-world challenges.
 
 ---
 
