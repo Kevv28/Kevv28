@@ -1,6 +1,6 @@
 # Kevil Rana
 
-**Aspiring Data Scientist and Software Developer**
+**AI/ML and Backend Developer**
 
 ---
 
