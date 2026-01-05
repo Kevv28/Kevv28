@@ -38,9 +38,13 @@ Hi! I'm Kevil Rana, SDE guy who likes building things that actually works in Ai/
   - G H Patel College of Engineering And Technology (2023 - 2024)
   - CGPA: 7.50/10
 
-- **Bachelor of Science in Data Science**
-  - Indian Institute of Technology Madras (2023 - 2027)
+- **Foundation in Data Science**
+  - Indian Institute of Technology Madras (2023 - 2025)
   - CGPA: 6.50/10
+    
+- **Master of Technology in CE**
+  - CHARUSAT (2025 - 2027)
+  - CGPA: 7.39/10
 
 ---
 
