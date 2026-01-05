@@ -1,12 +1,14 @@
 # Kevil Rana
 
-**AI/ML and Backend Developer**
+**SDE**
 
 ---
 
 ## About Me
 
-Hi! I'm Kevil Rana, a Data Analyst and Python Developer with a robust foundation in Data Science and Information Technology. My expertise includes developing innovative AI-based applications, creating user-friendly platforms, and exploring to solve real-world challenges.
+Hi! I'm Kevil Rana, SDE guy who likes building things that actually works in Ai/ML and Backend Dev.
+
+
 
 ---
 
