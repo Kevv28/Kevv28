@@ -42,10 +42,6 @@ Hi! I'm Kevil Rana, SDE guy who likes building things that actually works in Ai/
   - Indian Institute of Technology Madras (2023 - 2025)
   - CGPA: 6.80/10
     
-- **Master of Technology in CE**
-  - CHARUSAT (2025 - 2027)
-  - CGPA: 7.39/10
-
 ---
 
 ## 🏆 Achievements
