@@ -1,4 +1,4 @@
-# 👋 Kevil Rana
+#  Kevil Rana
 
 ### Software Development Engineer (AI/ML · Backend)
 
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 Hi, I’m **Kevil Rana** — an SDE with a strong focus on **AI/ML systems and backend engineering**.
 
@@ -19,7 +19,7 @@ I care about **clean architecture, performance, and real impact**, not just fanc
 
 ---
 
-## 🔗 Connect With Me
+##  Connect With Me
 
 <p align="left">
   <a href="mailto:kevil546rana@gmail.com">
@@ -32,27 +32,27 @@ I care about **clean architecture, performance, and real impact**, not just fanc
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-### ⚙️ Backend & Web
+###  Backend & Web
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
-### 🤖 AI / ML
+###  AI / ML
 - Classical ML: Logistic Regression, Decision Trees, Random Forest, XGBoost  
 - Deep Learning & CV  
 - Generative AI & LLMs  
 - Prompt Engineering & Model Evaluation  
 
-### ☁️ DevOps & Cloud
+### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
@@ -62,8 +62,7 @@ Services used:
 
 ---
 
-## 🎓 Education
-
+##  Education
 **Bachelor of Technology — Information Technology**  
 _G H Patel College of Engineering & Technology (2021 – 2025)_  
 **CGPA:** 8.23 / 10  
@@ -78,19 +77,19 @@ _Indian Institute of Technology Madras (2023 – 2025)_
 
 ---
 
-## 🏆 Achievements
+##  Achievements
 
-- 🏅 **Games Captain**  
+- **Games Captain**  
   Represented school at **national-level athletics competitions**, demonstrating leadership and discipline.
 
-- 📄 **International Conference Presenter**  
+-  **International Conference Presenter**  
   Presented research on  
   **“Enhancing Mesothelioma Cancer Diagnosis using Ensemble Learning Techniques”**  
   at an international conference in **Bengaluru, India**.
 
 ---
 
-## 📜 Certifications
+##  Certifications
 
 - **Java & Object-Oriented Programming**  
   Strong foundations with practical implementation.
@@ -100,7 +99,7 @@ _Indian Institute of Technology Madras (2023 – 2025)_
 
 ---
 
-## 📌 What I’m Interested In
+## What I’m Interested In
 
 - Backend-heavy SDE roles  
 - AI/ML engineering (applied, not just research)  
@@ -109,13 +108,13 @@ _Indian Institute of Technology Madras (2023 – 2025)_
 
 ---
 
-## 🤝 Let’s Collaborate
+##  Let’s Collaborate
 
 If you:
 - like building **real systems**,
 - care about **engineering quality**, or
 - want to collaborate on **AI + backend projects**
 
-👉 Feel free to explore my repositories and reach out.
+ Feel free to explore my repositories and reach out.
 
-**Always happy to build. 🚀**
+**Always happy to build. **
