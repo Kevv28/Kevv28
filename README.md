@@ -3,25 +3,10 @@
   <h3>Software Development Engineer | AI/ML Systems | Backend Engineering</h3>
   
   <p>
-    I build <strong>AI-powered systems</strong> and <strong>reliable backend services</strong> that work in production — not just demos.<br>
+    I build <strong>AI-powered systems</strong> and <strong>reliable backend services</strong> that work in production  not just demos.<br>
     Focused on clean architecture, scalability, performance, and real business impact.
   </p>
 
-  <p>
-    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:kevilrana28@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-    <a href="https://github.com/kevilrana">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    <a href="tel:+919773412354">
-      <img src="https://img.shields.io/badge/Phone-%2B91%209773412354-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
-    </a>
-  </p>
-</div>
 
 ---
 
