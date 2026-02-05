@@ -1,126 +1,124 @@
-<!-- ========================= -->
-<!--   GitHub Dark Theme README -->
-<!-- ========================= -->
+<div align="center">
+  <h1>Hi there! I'm Kevil Rana 👋</h1>
+  <h3>Software Development Engineer | AI/ML Systems | Backend Engineering</h3>
+  
+  <p>
+    I build <strong>AI-powered systems</strong> and <strong>reliable backend services</strong> that work in production — not just demos.<br>
+    Focused on clean architecture, scalability, performance, and real business impact.
+  </p>
 
-<h1 align="center">Kevil Rana</h1>
-
-<p align="center">
-  <b>Software Development Engineer · AI/ML · Backend</b>
-</p>
-
-<p align="center">
-  I build AI-powered systems and backend services that actually work in production — not just demos.
-</p>
-
-<p align="center">
-  <a href="mailto:kevil546rana@gmail.com">
-    <img src="https://img.shields.io/badge/Email-kevil546rana%40gmail.com-181717?style=for-the-badge&logo=gmail">
-  </a>
-  <a href="https://linkedin.com/in/kevilrana" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kevil%20Rana-181717?style=for-the-badge&logo=linkedin">
-  </a>
-</p>
-
----
-
-## ▌ About Me
-
-I’m **Kevil Rana**, a Software Development Engineer focused on **AI/ML systems and backend engineering**.
-
-I enjoy taking **messy, real-world problems** and turning them into **reliable, scalable software**, including:
-
-- production-grade backend systems  
-- ML pipeline deployment  
-- LLM integration into real products  
-
-I care about **clean architecture, performance, and real impact** — not buzzwords.
+  <p>
+    <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:kevilrana28@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+    <a href="https://github.com/kevilrana">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="tel:+919773412354">
+      <img src="https://img.shields.io/badge/Phone-%2B91%209773412354-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone" />
+    </a>
+  </p>
+</div>
 
 ---
 
-## ▌ Tech Stack
+### 🚀 What I'm Working On
+- Building scalable backend services for large-scale data platforms at **Salhakar AI** (remote SDE-1)
+- Integrating LLMs and agentic workflows into production systems
+- Creating privacy-first, AI-enhanced developer tools
 
-### ▸ Languages
-![Python](https://img.shields.io/badge/Python-181717?style=flat&logo=python)
-![Java](https://img.shields.io/badge/Java-181717?style=flat&logo=java)
-![JavaScript](https://img.shields.io/badge/JavaScript-181717?style=flat&logo=javascript)
+### 🛠️ Tech Stack
 
----
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) (learning)
 
-### ▸ Backend & Web
-![FastAPI](https://img.shields.io/badge/FastAPI-181717?style=flat&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-181717?style=flat&logo=node.js)
-![Flask](https://img.shields.io/badge/Flask-181717?style=flat&logo=flask)
-![React](https://img.shields.io/badge/React-181717?style=flat&logo=react)
-![MongoDB](https://img.shields.io/badge/MongoDB-181717?style=flat&logo=mongodb)
+**Backend & APIs**  
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 
----
+**AI / ML / Automation**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=flat&logo=langchain&logoColor=white)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A676?style=flat&logo=llamaindex&logoColor=white)
+Prompt Engineering · Agentic Workflows · Scikit-learn · ElevenLabs · Groq
 
-### ▸ AI / ML
-- Classical ML: Logistic Regression, Decision Trees, Random Forest, XGBoost  
-- Deep Learning & Computer Vision  
-- Generative AI & LLMs  
-- Prompt Engineering & Model Evaluation  
+**Databases & Messaging**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
----
+**Cloud & DevOps**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### ▸ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-181717?style=flat&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-181717?style=flat&logo=kubernetes)
-![AWS](https://img.shields.io/badge/AWS-181717?style=flat&logo=amazonaws)
-
-**AWS Services:**  
-`EC2 · S3 · RDS · CloudFront`
-
----
-
-## ▌ Education
-
-**B.Tech — Information Technology**  
-_G H Patel College of Engineering & Technology (2021 – 2025)_  
-`CGPA: 8.23 / 10`
-
-**Minor — Internet of Things**  
-_G H Patel College of Engineering & Technology (2023 – 2024)_  
-`CGPA: 7.50 / 10`
-
-**Foundation in Data Science**  
-_Indian Institute of Technology Madras (2023 – 2025)_  
-`CGPA: 6.80 / 10`
+**Frontend (when needed)**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white)
+Streamlit
 
 ---
 
-## ▌ Achievements
+### 💼 Experience Highlights
 
-- **Games Captain**  
-  National-level athletics representation, demonstrating leadership and discipline.
+- **Salhakar AI** — SDE 1 (Jan 2026 – Present)  
+  Designed backend for research data platform handling massive, growing datasets. Built high-throughput REST APIs. Collaborated on data pipelines for AI/research.
 
-- **International Conference Presenter**  
-  _Enhancing Mesothelioma Cancer Diagnosis using Ensemble Learning Techniques_  
-  Presented in **Bengaluru, India**.
+- **Aarogram** — SDE 1 (Part-time, Nov 2025 – Dec 2026)  
+  Integrated AI features into backend via REST APIs and workflows.
 
----
+- **Asynzx Computing** — AI/ML & Backend Developer (Jan 2025 – Nov 2025)  
+  End-to-end AI pipelines (OpenCV, TensorFlow), FastAPI services, agentic workflows for summarization/notes, AWS deployments.
 
-## ▌ Certifications
-
-- Java & Object-Oriented Programming  
-- AI Research & API Integration  
+- **OutlierAI** — AI Prompt Engineer / Pod Lead (Sep 2024 – Sep 2025)  
+  Prompt engineering, evaluation pipelines, quality control, mentoring.
 
 ---
 
-## ▌ Interests
+### 🌟 Featured Projects
 
-- Backend-heavy SDE roles  
-- Applied AI / ML engineering  
-- LLM-powered systems  
-- Startups solving real problems  
+- **[SelfVCS](https://github.com/YOUR_USERNAME/selfvcs)**  
+  Local AI-enhanced version control system — automated commit insights, changelog generation, full privacy (FastAPI + Groq + Click).
+
+- **[AI-Agent Call](https://github.com/YOUR_USERNAME/ai-agent-call)**  
+  Real-time voice AI agent (ElevenLabs + Twilio + WebSockets + Express) — handles 1000+ concurrent calls with low latency.
+
+*(Add more pinned repos with live demos / GIFs when possible — they make a huge difference!)*
 
 ---
 
-## ▌ Let’s Collaborate
+### 🎓 Education
 
-If you value:
-- **real systems over demos**
-- **engineering quality**
-- **AI + backend craftsmanship**
+**B.E. Information Technology** (with IoT Specialization)  
+CVM University (formerly GCET / GH Patel), Anand, Gujarat  
+2021 – 2025
 
-Feel free to explore my repositories and reach out.
+---
+
+### 🏆 Achievements & Extras
+
+- Presented research paper at international conference: *Enhancing Mesothelioma Cancer Diagnosis using Ensemble Learning*
+- National-level athletics representation (Games Captain)
+- Certifications: Java & OOP, AI Research & API Integration
+
+---
+
+### 📫 Let's connect & collaborate
+
+Open to **backend-heavy SDE roles**, **applied AI/ML engineering**, **LLM-powered products**, and **startups solving real problems**.
+
+Feel free to explore my repos, open issues, or just say hi!
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kevilrana.kevilrana" alt="Profile views" />
+</div>
