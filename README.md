@@ -82,28 +82,5 @@ Streamlit
 
 ---
 
-### 🎓 Education
 
-**B.E. Information Technology** (with IoT Specialization)  
-CVM University (formerly GCET / GH Patel), Anand, Gujarat  
-2021 – 2025
 
----
-
-### 🏆 Achievements & Extras
-
-- Presented research paper at international conference: *Enhancing Mesothelioma Cancer Diagnosis using Ensemble Learning*
-- National-level athletics representation (Games Captain)
-- Certifications: Java & OOP, AI Research & API Integration
-
----
-
-### 📫 Let's connect & collaborate
-
-Open to **backend-heavy SDE roles**, **applied AI/ML engineering**, **LLM-powered products**, and **startups solving real problems**.
-
-Feel free to explore my repos, open issues, or just say hi!
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kevilrana.kevilrana" alt="Profile views" />
-</div>
