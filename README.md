@@ -1,86 +1,73 @@
-<div align="center">
-  <h1>Hi there! I'm Kevil Rana 👋</h1>
-  <h3>Software Development Engineer | AI/ML Systems | Backend Engineering</h3>
-  
-  <p>
-    I build <strong>AI-powered systems</strong> and <strong>reliable backend services</strong> that work in production  not just demos.<br>
-    Focused on clean architecture, scalability, performance, and real business impact.
-  </p>
+
+Gemini said
+Based on your current experience and the specific skills you're developing, here is a clean, black-and-white Markdown version of your profile.
+
+Kevil Rana
+Software Development Engineer | AI/ML Systems | Backend Engineering
++91 9773412354 | kevilrana28@gmail.com | Anand, Gujarat (Remote) 
++3
+
+Experience
+Salhakar AI | SDE 1 | Jan 2026 – Present 
++1
+
+Designing and developing backend services for research-oriented data platforms handling large-scale datasets.
+
+Building REST APIs to ingest, query, and process high-volume structured and unstructured data.
+
+Integrating Elasticsearch for enhanced data retrieval and search capabilities.
+
+Aarogram | SDE 1 (Part-Time) | Nov 2025 – Dec 2026 
+
+Integrated AI features into backend workflows by consuming AI outputs and exposing them via REST APIs.
+
+Collaborated with senior engineers to implement AI-driven logic into production systems.
+
+Asynzx Computing | AI/ML & Backend Developer | Jan 2025 – Nov 2025 
+
+Built end-to-end AI/ML pipelines including data preprocessing, model training, and inference using Python and TensorFlow.
+
+Developed agentic AI workflows for automated meeting summarization and digital interactions.
+
+Deployed scalable backend and AI services on AWS.
+
+Outlier AI | AI Prompt Engineer / Pod Lead | Sep 2024 – Sep 2025 
+
+Managed prompt engineering and validation workflows to improve model response quality.
+
+Served as Pod Lead, guiding peers and maintaining high standards for AI evaluation pipelines.
+
+Technical Skills
+
+Languages: Python, JavaScript, Java, Go (Learning) 
 
 
----
-
-### 🚀 What I'm Working On
-- Building scalable backend services for large-scale data platforms at **Salhakar AI** (remote SDE-1)
-- Integrating LLMs and agentic workflows into production systems
-- Creating privacy-first, AI-enhanced developer tools
-
-### 🛠️ Tech Stack
-
-**Languages**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white) (learning)
-
-**Backend & APIs**  
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
-
-**AI / ML / Automation**  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-00BFFF?style=flat&logo=langchain&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-00A676?style=flat&logo=llamaindex&logoColor=white)
-Prompt Engineering · Agentic Workflows · Scikit-learn · ElevenLabs · Groq
-
-**Databases & Messaging**  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-
-**Cloud & DevOps**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-**Frontend (when needed)**  
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-B73BFE?style=flat&logo=vite&logoColor=white)
-Streamlit
-
----
-
-### 💼 Experience Highlights
-
-- **Salhakar AI** — SDE 1 (Jan 2026 – Present)  
-  Designed backend for research data platform handling massive, growing datasets. Built high-throughput REST APIs. Collaborated on data pipelines for AI/research.
-
-- **Aarogram** — SDE 1 (Part-time, Nov 2025 – Dec 2026)  
-  Integrated AI features into backend via REST APIs and workflows.
-
-- **Asynzx Computing** — AI/ML & Backend Developer (Jan 2025 – Nov 2025)  
-  End-to-end AI pipelines (OpenCV, TensorFlow), FastAPI services, agentic workflows for summarization/notes, AWS deployments.
-
-- **OutlierAI** — AI Prompt Engineer / Pod Lead (Sep 2024 – Sep 2025)  
-  Prompt engineering, evaluation pipelines, quality control, mentoring.
-
----
-
-### 🌟 Featured Projects
-
-- **[SelfVCS](https://github.com/YOUR_USERNAME/selfvcs)**  
-  Local AI-enhanced version control system — automated commit insights, changelog generation, full privacy (FastAPI + Groq + Click).
-
-- **[AI-Agent Call](https://github.com/YOUR_USERNAME/ai-agent-call)**  
-  Real-time voice AI agent (ElevenLabs + Twilio + WebSockets + Express) — handles 1000+ concurrent calls with low latency.
-
-*(Add more pinned repos with live demos / GIFs when possible — they make a huge difference!)*
-
----
+Backend & APIs: FastAPI, Node.js, Express.js, Flask, REST APIs 
 
 
+Databases & Search: Elasticsearch, PostgreSQL, MongoDB, SQL 
+
+
+AI & ML: TensorFlow, OpenCV, LangChain, LlamaIndex, Scikit-learn, Prompt Engineering 
+
+
+Messaging & DevOps: Apache Kafka, Redis, AWS (EC2), Docker, Git 
++1
+
+Projects
+SelfVCS | Python, FastAPI, Groq API, Click CLI 
+
+Developed a local version control system with AI-automated commit insights and changelog generation.
+
+Designed a CLI supporting push, log, restore, and versioning commands.
+
+AI-Agent Call | ElevenLabs, Twilio API, Express.js, WebSockets 
+
+Built a real-time voice AI agent system optimized to handle 1000+ concurrent connections.
++1
+
+Implemented bidirectional communication for low-latency voice synthesis.
+
+Education
+CVM University | Bachelor of Engineering in Information Technology (IoT Specialization) 
 
