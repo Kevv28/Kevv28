@@ -14,11 +14,11 @@
 **Software Development Engineer – I**  
 *Jan 2026 – Present*
 
-- Designing and developing backend services for research-oriented data platforms handling large, continuously growing datasets.
-- Building REST APIs to ingest, query, and process high-volume structured and unstructured data.
-- Implementing Elasticsearch for optimized data retrieval and advanced search functionality.
-- Collaborating with AI and research teams to support data preprocessing and feature extraction.
-
+- Architected and deployed scalable backend services for a legal research platform processing 15M+ Indian court judgements with real-time search capabilities
+- Engineered REST APIs with FastAPI and SQLAlchemy for multi-modal data ingestion, enabling seamless handling of PDFs, structured metadata, and conversational AI interactions
+- Implemented Elasticsearch-based semantic search with PDF text extraction, reducing query response time by 70% while maintaining 95%+ relevance accuracy
+- Integrated Google Gemini AI with custom retry logic and memory management, building a conversational legal assistant with multi-turn context awareness and session persistence
+- Collaborated with research teams to design data preprocessing pipelines for AI model training, including judgement summarization and citation extraction workflows
 ---
 
 ### **Aarogram**  
