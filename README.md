@@ -6,7 +6,6 @@
 📞 +91 9773412354  
 📧 kevilrana28@gmail.com  
 
-### 🚀 Recent Activity
 
 ## Experience
 
@@ -54,12 +53,11 @@
 ## Technical Skills
 
 **Programming Languages**  
-- Python, JavaScript, Java  
-- Go *(Learning)*
+- Python, Go *(Learning)*
 
 **Backend & APIs**  
-- FastAPI, Node.js, Express.js, Flask, Strapi  
-- REST API Design
+- FastAPI, Flask, Strapi , Django , NodeJS
+- REST API Design, CRUD , GRAPHQL
 
 **Databases & Search**  
 - PostgreSQL, MongoDB, SQL  
@@ -77,7 +75,8 @@
 
 **Cloud & DevOps**  
 - AWS (EC2)  
-- Docker  
+- DigitalOcean
+- Docker 
 - Git
 
 ---
