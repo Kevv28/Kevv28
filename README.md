@@ -8,8 +8,12 @@
 
 ---
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevv28&show_icons=true&theme=radical&count_private=true" alt="Kevil's Stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevv28&layout=compact&theme=radical" alt="Top Languages" height="150" />
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kevv28&show_icons=true&theme=radical&count_private=true" alt="Kevil's Stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevv28&layout=compact&theme=radical" alt="Top Languages" />
+  </a>
 </p>
 
 ## Experience
