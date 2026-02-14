@@ -6,6 +6,8 @@
 📞 +91 9773412354  
 📧 kevilrana28@gmail.com  
 
+### 🚀 Recent Activity
+
 ## Experience
 
 ### **Salhakar AI**  
