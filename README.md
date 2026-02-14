@@ -1,13 +1,11 @@
 <div align="center">
 
-# 👨‍💻 Kevil Rana
+# Kevil Rana
 
-### `Software Development Engineer` • `AI/ML Systems` • `Backend Architect`
+### Software Development Engineer | AI/ML Systems | Backend Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer+%F0%9F%9A%80;AI%2FML+Developer+%F0%9F%A4%96;Building+Scalable+Systems+%E2%9A%A1;FastAPI+%7C+Python+%7C+Go" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer;AI%2FML+Developer;Building+Scalable+Systems;FastAPI+%7C+Python+%7C+Go" alt="Typing SVG" />
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Kevv28&color=00D9FF&style=for-the-badge)](https://github.com/Kevv28)
-[![GitHub followers](https://img.shields.io/github/followers/Kevv28?style=for-the-badge&color=00D9FF&labelColor=1a1b27)](https://github.com/Kevv28?tab=followers)
 [![GitHub Stars](https://img.shields.io/github/stars/Kevv28?style=for-the-badge&color=00D9FF&labelColor=1a1b27)](https://github.com/Kevv28?tab=repositories)
 
 </div>
@@ -16,117 +14,64 @@
 
 <div align="center">
 
-### 📍 Anand, Gujarat • 📧 kevilrana28@gmail.com • 📞 +91 9773412354
+Anand, Gujarat | kevilrana28@gmail.com | +91 9773412354
 
 </div>
 
 ---
 
-<div align="center">
+## Professional Summary
 
-## 🎯 About Me
-
-</div>
-
-```yaml
-role: Software Development Engineer
-focus: Backend Systems & AI/ML Integration
-current_company: Salhakar AI
-specialization:
-  - Building scalable legal research platforms processing 15M+ judgements
-  - Architecting high-performance REST APIs with FastAPI
-  - Implementing semantic search with Elasticsearch (70% faster queries)
-  - Deploying AI-driven solutions with Google Gemini AI
-```
-
-<div align="center">
-
-**💡 "Transforming complex problems into elegant, scalable solutions"**
-
-</div>
+Experienced Software Development Engineer specializing in backend systems and AI/ML integration. Currently architecting scalable legal research platforms at **Salhakar AI**, processing 15M+ court judgements with real-time search capabilities. Proven track record in building high-performance REST APIs, implementing semantic search systems, and deploying AI-driven solutions with FastAPI, Elasticsearch, and cloud technologies.
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Skills
 
-### Languages & Frameworks
+**Programming Languages**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Backend & Frameworks**  
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Databases & Search
+**Databases & Search**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### AI/ML & Automation
+**AI/ML & Libraries**  
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
 
-### Cloud & DevOps
+**Cloud & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-### Messaging & Streaming
+**Message Brokers**  
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
 
 ---
 
-<div align="center">
+## Current Focus
 
-## 💡 What I'm Working On
-
-</div>
-
-<table>
-<tr>
-<td width="50%">
-
-```javascript
-// 🔭 Current Focus
-const currentWork = {
-  company: "Salhakar AI",
-  role: "Building legal research platforms",
-  scale: "15M+ court judgements",
-  tech: ["FastAPI", "Elasticsearch", "Gemini AI"]
-};
-```
-
-</td>
-<td width="50%">
-
-```go
-// 🌱 Learning & Growing
-type Skills struct {
-    Learning    string   // Go lang
-    Freelance   string   // Aarogram - AI/ML
-    Interests   []string // Backend, AI, DevOps
-    AskMeAbout  string   // FastAPI, ML Pipelines
-}
-```
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-### 💬 Ask me about `FastAPI` • `AI/ML Pipelines` • `Backend Architecture` • `Elasticsearch`
-
-</div>
+- Building scalable legal research platforms at **Salhakar AI** (15M+ court judgements)
+- Learning **Go** for high-performance backend systems
+- Contributing to AI/ML integration at **Aarogram** (Part-time)
+- Expertise in **FastAPI**, **AI/ML Pipelines**, **Backend Architecture**, and **Elasticsearch**
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
@@ -142,152 +87,76 @@ type Skills struct {
 
 ---
 
-<div align="center">
+## Contribution Activity
 
-## 📈 Contribution Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+</p>
 
 ---
 
-<div align="center">
+## Professional Experience
 
-## 💼 Professional Journey
+### Salhakar AI
+**Software Development Engineer – I** | *Jan 2026 – Present*
 
-</div>
+- Architected and deployed scalable backend services for a legal research platform processing 15M+ Indian court judgements with real-time search capabilities
+- Engineered REST APIs with FastAPI and SQLAlchemy for multi-modal data ingestion, enabling seamless handling of PDFs, structured metadata, and conversational AI interactions
+- Implemented Elasticsearch-based semantic search with PDF text extraction, reducing query response time by 70% while maintaining 95%+ relevance accuracy
+- Integrated Google Gemini AI with custom retry logic and memory management, building a conversational legal assistant with multi-turn context awareness and session persistence
+- Collaborated with research teams to design data preprocessing pipelines for AI model training, including judgement summarization and citation extraction workflows
 
-### 🚀 **Salhakar AI** | *Software Development Engineer – I*
-`Jan 2026 – Present` • `FastAPI` • `Elasticsearch` • `AI Integration`
+### Aarogram
+**Software Development Engineer – I (Part-Time)** | *Nov 2025 – Dec 2026*
 
-<details open>
-<summary><b>Key Achievements</b></summary>
+- Contributed to backend development and AI feature integration by consuming AI outputs and exposing them through REST APIs
+- Worked closely with senior engineers to integrate AI-driven logic into existing backend workflows
 
-- ⚡ Architected backend services processing **15M+ Indian court judgements** with real-time search
-- 🎯 Built REST APIs with **FastAPI & SQLAlchemy** for multi-modal data ingestion
-- 📊 Implemented **Elasticsearch semantic search** → **70% faster** query response time
-- 🤖 Integrated **Google Gemini AI** with conversational legal assistant capabilities
-- 🔬 Designed data preprocessing pipelines for AI model training & citation extraction
+### Asynzx Computing
+**AI/ML and Backend Developer** | *Jan 2025 – Nov 2025*
 
-</details>
+- Built and deployed end-to-end AI/ML pipelines including data preprocessing, model training, and inference using Python, OpenCV, and TensorFlow
+- Designed and deployed scalable REST APIs using FastAPI to integrate AI outputs with production systems
+- Developed agentic AI workflows for meeting summarization and automated note generation
+- Deployed backend and AI services on AWS with a focus on reliability and scalability
 
----
+### Outlier AI
+**AI Prompt Engineer (Part-Time)** | *Sep 2024 – Sep 2025*
 
-### 💻 **Aarogram** | *Software Development Engineer – I (Part-Time)*
-`Nov 2025 – Dec 2026` • `Backend` • `AI Integration` • `REST APIs`
-
-- 🔧 Backend development and AI feature integration via REST APIs
-- 🤝 Collaborated on AI-driven logic integration into production workflows
-
----
-
-### 🧠 **Asynzx Computing** | *AI/ML and Backend Developer*
-`Jan 2025 – Nov 2025` • `TensorFlow` • `OpenCV` • `AWS`
-
-- 🔮 Built end-to-end **AI/ML pipelines** with TensorFlow and OpenCV
-- 🌐 Deployed scalable **FastAPI** services on AWS
-- 📝 Developed **agentic AI workflows** for meeting summarization
+- Worked on AI prompt engineering, validation, and annotation workflows to improve model response quality and correctness
+- Reviewed and debugged prompts and Python-based logic used in AI evaluation pipelines
+- Served as Pod Lead, guiding peers, reviewing submissions, and maintaining quality standards
 
 ---
 
-### 🎯 **Outlier AI** | *AI Prompt Engineer (Part-Time)*
-`Sep 2024 – Sep 2025` • `Prompt Engineering` • `Quality Assurance`
+## Featured Projects
 
-- 🔍 AI prompt engineering, validation, and annotation workflows
-- 👥 Served as **Pod Lead** → guided peers & maintained quality standards
+### SelfVCS
+**Technologies:** Python, FastAPI, Groq API, Click CLI
+
+A lightweight, local version control system enhanced with AI for automated commit insights and changelog generation. Built with secure, local commit storage to ensure privacy without cloud infrastructure. Features a CLI supporting push, log, restore, and versioning commands.
+
+[View on GitHub](https://github.com/Kevv28/selfvcs)
+
+### AI-Agent Call
+**Technologies:** ElevenLabs, Twilio API, Express.js, WebSockets
+
+Developed an AI-powered voice agent system using ElevenLabs API for real-time voice synthesis. Integrated WebSockets for low-latency, bidirectional communication. Optimized the system to handle 1,000+ concurrent real-time connections.
+
+[View on GitHub](https://github.com/Kevv28/ai-agent-call)
+
+---
+
+## Education
+
+**Bachelor of Engineering in Information Technology**  
+CVM University | Specialization: Internet of Things (IoT)
 
 ---
 
-<div align="center">
-
-## 🚀 Featured Projects
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🔐 [SelfVCS](https://github.com/Kevv28/selfvcs)
-
-**Lightweight AI-Powered Version Control**
-
-```python
-tech_stack = {
-    "backend": "FastAPI",
-    "ai": "Groq API",
-    "cli": "Click"
-}
-```
-
-**Features:**
-- ✨ AI-powered commit insights
-- 🔒 Secure local storage (privacy-first)
-- ⚡ CLI: push, log, restore, versioning
-- 🎯 No cloud dependency
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Kevv28/selfvcs)
-
-</td>
-<td width="50%" valign="top">
-
-### 🎙️ [AI-Agent Call](https://github.com/Kevv28/ai-agent-call)
-
-**Real-time Voice AI System**
-
-```javascript
-const system = {
-    voice: "ElevenLabs API",
-    backend: "Express.js",
-    realtime: "WebSockets"
-};
-```
-
-**Features:**
-- 🗣️ Real-time voice synthesis
-- ⚡ Low-latency bidirectional comms
-- 🚀 1,000+ concurrent connections
-- 📞 Twilio integration
-
-[![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github)](https://github.com/Kevv28/ai-agent-call)
-
-</td>
-</tr>
-</table>
-
----
+## Contact & Links
 
 <div align="center">
-
-## 🎓 Education
-
-</div>
-
-<table>
-<tr>
-<td width="100%">
-
-### 🏛️ **CVM University**
-
-```yaml
-degree: Bachelor of Engineering
-major: Information Technology
-specialization: Internet of Things (IoT)
-status: Completed
-```
-
-**Key Areas:** IoT Systems • Embedded Programming • Network Protocols • Cloud Integration
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🤝 Let's Connect!
 
 [![Email](https://img.shields.io/badge/Email-kevilrana28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevilrana28@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
@@ -299,8 +168,6 @@ status: Completed
 ---
 
 <div align="center">
-
-### ⚡ *"Quittinig is hard, Keep Walking"* ⚡
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=100&section=footer" width="100%"/>
 
