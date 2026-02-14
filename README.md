@@ -4,9 +4,8 @@
 
 ### Software Development Engineer | AI/ML Systems | Backend Architect
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer;AI%2FML+Developer;Building+Scalable+Systems;FastAPI+%7C+Python+%7C+Go" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer;AI%2FML+Developer;Building+Scalable+Systems;%7C+Python+%7C+Go" alt="Typing SVG" />
 
-[![GitHub Stars](https://img.shields.io/github/stars/Kevv28?style=for-the-badge&color=00D9FF&labelColor=1a1b27)](https://github.com/Kevv28?tab=repositories)
 
 </div>
 
@@ -73,16 +72,9 @@ Experienced Software Development Engineer specializing in backend systems and AI
 
 ## GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevv28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevv28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
