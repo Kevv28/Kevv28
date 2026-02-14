@@ -1,0 +1,19 @@
+name: Update Recent PRs
+on:
+  schedule:
+    - cron: '0 * * * *' # Runs at the start of every hour
+  workflow_dispatch: # Allows you to manually trigger it for testing
+
+jobs:
+  update-readme:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull Request/Activity Update
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "pr-list"
+          feed_list: "https://github.com/kevv28.atom"
+          max_post_count: 5
