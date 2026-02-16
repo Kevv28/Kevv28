@@ -90,25 +90,36 @@ Experienced Software Development Engineer specializing in backend systems and AI
 ### Salhakar AI
 **Software Development Engineer – I** | *Jan 2026 – Present*
 
-- Architected and deployed scalable backend services for a legal research platform processing 15M+ Indian court judgements with real-time search capabilities
-- Engineered REST APIs with FastAPI and SQLAlchemy for multi-modal data ingestion, enabling seamless handling of PDFs, structured metadata, and conversational AI interactions
-- Implemented Elasticsearch-based semantic search with PDF text extraction, reducing query response time by 70% while maintaining 95%+ relevance accuracy
-- Integrated Google Gemini AI with custom retry logic and memory management, building a conversational legal assistant with multi-turn context awareness and session persistence
-- Collaborated with research teams to design data preprocessing pipelines for AI model training, including judgement summarization and citation extraction workflows
+– Led the backend engineering team, owning system design, scalability planning, and backend architecture for the
+Salhakar platform.
+– Worked closely with AI research and frontend teams to design efficient APIs and data pipelines enabling AI-driven
+legal and research workflows.
+– Developed high-performance backend services using Python and FastAPI to support continuous data ingestion and
+querying.
+– Managed and optimized PostgreSQL databases handling 17M+ records, focusing on indexing, query
+optimization, and reliability.
+– Integrated Elasticsearch to enable fast and scalable search across large structured and unstructured datasets.
+– Designed distributed backend systems leveraging Kafka for asynchronous processing and Redis for caching and
+low-latency access.
+– Contributed to end-to-end system design ensuring scalability, fault tolerance, and production readiness.
 
 ### Aarogram
 **Software Development Engineer – I (Part-Time)** | *Nov 2025 – Dec 2026*
 
-- Contributed to backend development and AI feature integration by consuming AI outputs and exposing them through REST APIs
-- Worked closely with senior engineers to integrate AI-driven logic into existing backend workflows
+– Worked on backend integrations involving webhooks and AI-driven workflows for real-time communication systems.
+– Developed and integrated an AI voice agent capable of handling 1000+ concurrent requests with low latency.
+– Collaborated with senior engineers to ensure reliable AI output delivery through scalable backend APIs.
 
 ### Asynzx Computing
 **AI/ML and Backend Developer** | *Jan 2025 – Nov 2025*
 
-- Built and deployed end-to-end AI/ML pipelines including data preprocessing, model training, and inference using Python, OpenCV, and TensorFlow
-- Designed and deployed scalable REST APIs using FastAPI to integrate AI outputs with production systems
-- Developed agentic AI workflows for meeting summarization and automated note generation
-- Deployed backend and AI services on AWS with a focus on reliability and scalability
+– Designed, developed, and managed databases supporting 10K+ students, ensuring data integrity and
+performance.
+– Built end-to-end AI pipelines for face recognition including data collection, preprocessing, model training, and
+inference.
+– Integrated Kafka for event-driven processing and Redis for caching within AI and backend workflows.
+– Deployed scalable REST APIs using FastAPI to expose AI inference results to production systems.
+– Handled cloud deployment and monitoring of AI and backend services on AWS.
 
 ### Outlier AI
 **AI Prompt Engineer (Part-Time)** | *Sep 2024 – Sep 2025*
