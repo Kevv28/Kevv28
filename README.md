@@ -92,7 +92,7 @@ Experienced Software Development Engineer specializing in backend systems and AI
 
 – Led the backend engineering team, owning system design, scalability planning, and backend architecture for the
 Salhakar platform.
-– Worked closely with AI research and frontend teams to design efficient APIs and data pipelines enabling AI-driven
+– Worked closely with AI research and frontend teams to design efficient APIs and data pipelines enabling AI driven
 legal and research workflows.
 – Developed high-performance backend services using Python and FastAPI to support continuous data ingestion and
 querying.
