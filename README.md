@@ -90,45 +90,36 @@ Experienced Software Development Engineer specializing in backend systems and AI
 ### Salhakar AI
 **Software Development Engineer – I** | *Jan 2026 – Present*
 
-– Led the backend engineering team, owning system design, scalability planning, and backend architecture for the
-Salhakar platform.
-– Worked closely with AI research and frontend teams to design efficient APIs and data pipelines enabling AI driven
-legal and research workflows.
-– Developed high-performance backend services using Python and FastAPI to support continuous data ingestion and
-querying.
-– Managed and optimized PostgreSQL databases handling 17M+ records, focusing on indexing, query
-optimization, and reliability.
-– Integrated Elasticsearch to enable fast and scalable search across large structured and unstructured datasets.
-– Designed distributed backend systems leveraging Kafka for asynchronous processing and Redis for caching and
-low-latency access.
-– Contributed to end-to-end system design ensuring scalability, fault tolerance, and production readiness.
+- Led the backend engineering team, owning system design, scalability planning, and backend architecture for the Salhakar platform.
+- Worked closely with AI research and frontend teams to design efficient APIs and data pipelines enabling AI-driven legal and research workflows.
+- Developed high-performance backend services using Python and FastAPI to support continuous data ingestion and querying.
+- Managed and optimized PostgreSQL databases handling 17M+ records, focusing on indexing, query optimization, and reliability.
+- Integrated Elasticsearch to enable fast and scalable search across large structured and unstructured datasets.
+- Designed distributed backend systems leveraging Kafka for asynchronous processing and Redis for caching and low-latency access.
+- Contributed to end-to-end system design ensuring scalability, fault tolerance, and production readiness.
 
 ### Aarogram
 **Software Development Engineer – I (Part-Time)** | *Nov 2025 – Dec 2026*
 
-– Worked on backend integrations involving webhooks and AI-driven workflows for real-time communication systems.
-– Developed and integrated an AI voice agent capable of handling 1000+ concurrent requests with low latency.
-– Collaborated with senior engineers to ensure reliable AI output delivery through scalable backend APIs.
+- Worked on backend integrations involving webhooks and AI-driven workflows for real-time communication systems.
+- Developed and integrated an AI voice agent capable of handling 1000+ concurrent requests with low latency.
+- Collaborated with senior engineers to ensure reliable AI output delivery through scalable backend APIs.
 
 ### Asynzx Computing
 **AI/ML and Backend Developer** | *Jan 2025 – Nov 2025*
 
-– Designed, developed, and managed databases supporting 10K+ students, ensuring data integrity and
-performance.
-– Built end-to-end AI pipelines for face recognition including data collection, preprocessing, model training, and
-inference.
-– Integrated Kafka for event-driven processing and Redis for caching within AI and backend workflows.
-– Deployed scalable REST APIs using FastAPI to expose AI inference results to production systems.
-– Handled cloud deployment and monitoring of AI and backend services on AWS.
+- Designed, developed, and managed databases supporting 10K+ students, ensuring data integrity and performance.
+- Built end-to-end AI pipelines for face recognition including data collection, preprocessing, model training, and inference.
+- Integrated Kafka for event-driven processing and Redis for caching within AI and backend workflows.
+- Deployed scalable REST APIs using FastAPI to expose AI inference results to production systems.
+- Handled cloud deployment and monitoring of AI and backend services on AWS.
 
 ### Outlier AI
 **AI Prompt Engineer (Part-Time)** | *Sep 2024 – Sep 2025*
 
-- Worked on AI prompt engineering, validation, and annotation workflows to improve model response quality and correctness
-- Reviewed and debugged prompts and Python-based logic used in AI evaluation pipelines
-- Served as Pod Lead, guiding peers, reviewing submissions, and maintaining quality standards
-
----
+- Worked on AI prompt engineering, validation, and annotation workflows to improve model response quality and correctness.
+- Reviewed and debugged prompts and Python-based logic used in AI evaluation pipelines.
+- Served as Pod Lead, guiding peers, reviewing submissions, and maintaining quality standards.
 
 ## Featured Projects
 
