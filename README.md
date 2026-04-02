@@ -68,22 +68,6 @@ Experienced Software Development Engineer specializing in backend systems and AI
 
 ---
 
-## GitHub Statistics
-
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevv28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
-</p>
-
----
 
 ## Professional Experience
 
