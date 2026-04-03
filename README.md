@@ -6,7 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Backend+Engineer;AI%2FML+Developer;Building+Scalable+Systems;%7C+Python+%7C+Go" alt="Typing SVG" />
 
-
 </div>
 
 ---
@@ -68,6 +67,37 @@ Experienced Software Development Engineer specializing in backend systems and AI
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&hide_border=true" alt="Kevil's GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Kevv28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevv28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kevv28&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" alt="Kevil's Activity Graph" />
+</p>
+
+---
 
 ## Professional Experience
 
@@ -104,6 +134,8 @@ Experienced Software Development Engineer specializing in backend systems and AI
 - Worked on AI prompt engineering, validation, and annotation workflows to improve model response quality and correctness.
 - Reviewed and debugged prompts and Python-based logic used in AI evaluation pipelines.
 - Served as Pod Lead, guiding peers, reviewing submissions, and maintaining quality standards.
+
+---
 
 ## Featured Projects
 
