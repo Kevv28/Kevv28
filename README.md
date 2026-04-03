@@ -76,19 +76,6 @@ Experienced Software Development Engineer specializing in backend systems and AI
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kevv28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevv28&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Kevv28&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=10" alt="GitHub Trophies" />
-</p>
-
 ---
 
 ## 📈 Contribution Activity Graph
