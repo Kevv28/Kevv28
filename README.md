@@ -67,24 +67,22 @@ Experienced Software Development Engineer specializing in backend systems and AI
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&theme=tokyonight&show=reviews,prs_merged,prs_merged_percentage&count_private=true&include_all_commits=true&hide_border=true" alt="Kevil's GitHub Stats" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Kevv28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
----
 
-## 📈 Contribution Activity Graph
+
+##  Contribution Activity Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" alt="Kevil's Activity Graph" />
 </p>
 
----
+
 
 ## Professional Experience
 
@@ -154,9 +152,9 @@ CVM University | Specialization: Internet of Things (IoT)
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-kevilrana28%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevilrana28@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevil-rana/)
 [![GitHub](https://img.shields.io/badge/GitHub-Kevv28-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kevv28)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](http://kevilbuilds.me/kevil-portfolio/)
 
 </div>
 
