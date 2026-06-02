@@ -69,13 +69,6 @@ Experienced Software Development Engineer specializing in backend systems and AI
 
 ##  GitHub Stats
 
-<p align="center">
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Kevv28&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-
 ##  Contribution Activity Graph
 
 <p align="center">
