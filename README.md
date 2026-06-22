@@ -67,8 +67,6 @@ Experienced Software Development Engineer specializing in backend systems and AI
 
 ---
 
-##  GitHub Stats
-
 ##  Contribution Activity Graph
 
 <p align="center">
