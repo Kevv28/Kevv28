@@ -21,10 +21,10 @@
 
 I build backend systems and AI/ML pipelines that hold up at scale. Right now I'm at **Salhakar AI**, architecting a legal research platform that searches across 15M+ court judgements in real time. I care about clean API design, query performance, and systems that stay reliable under load.
 
-- 🔭 Currently building search & retrieval infrastructure at **Salhakar AI**
-- 🧠 Contributing to AI-driven backend workflows at **Aarogram** (part-time)
-- 🌱 Deepening my **Go** skills for high-performance services
-- 💬 Ask me about **FastAPI, Elasticsearch, Kafka,** or **AI pipeline design**
+-  Currently building search & retrieval infrastructure at **Salhakar AI**
+-  Contributed to AI-driven backend workflows at **Aarogram** 
+-  Deepening my **Go** skills for high-performance services
+-  Ask me about **FastAPI, Elasticsearch, Kafka,** or **AI pipeline design**
 
 <br>
 
@@ -101,11 +101,6 @@ I build backend systems and AI/ML pipelines that hold up at scale. Right now I'm
 
 
 ## GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevv28&layout=compact&theme=tokyonight&hide_border=true" width="33%" />
-</p>
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" width="85%" />
