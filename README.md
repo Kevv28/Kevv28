@@ -1,44 +1,34 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1200&color=00D9FF&center=true&vCenter=true&width=600&lines=SDE+%40+Salhakar+AI;Backend+Systems+%2B+AI%2FML+Pipelines;FastAPI+%7C+Elasticsearch+%7C+Kafka+%7C+Go" alt="Typing SVG" />
+# Hi, I'm Kevil 👋
 
-<br>
+### Software Development Engineer · AI/ML Systems · Backend Architecture
 
-```
-whoami
-```
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=560&lines=Building+scalable+backend+systems;Architecting+AI%2FML+pipelines;FastAPI+%C2%B7+Elasticsearch+%C2%B7+Kafka+%C2%B7+Go" alt="Typing SVG" />
+
+📍 Anand, Gujarat &nbsp;·&nbsp; ✉️ kevilrana28@gmail.com
+
+<a href="https://www.linkedin.com/in/kevil-rana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Kevv28"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+<a href="mailto:kevilrana28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="http://kevilbuilds.me/kevil-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
 
 </div>
 
-# Kevil Rana
+<br>
 
-**Software Development Engineer** building backend systems and AI/ML pipelines that hold up at scale.
+## About
 
-Anand, Gujarat &nbsp;&bull;&nbsp; kevilrana28@gmail.com &nbsp;&bull;&nbsp; [Portfolio](http://kevilbuilds.me/kevil-portfolio/)
+I build backend systems and AI/ML pipelines that hold up at scale. Right now I'm at **Salhakar AI**, architecting a legal research platform that searches across 15M+ court judgements in real time. I care about clean API design, query performance, and systems that stay reliable under load.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=00D9FF)](https://www.linkedin.com/in/kevil-rana/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=00D9FF)](https://github.com/Kevv28)
-[![Mail](https://img.shields.io/badge/Mail-black?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:kevilrana28@gmail.com)
+-  Currently building search & retrieval infrastructure at **Salhakar AI**
+-  Contributed to AI-driven backend workflows at **Aarogram** 
+-  Deepening my **Go** skills for high-performance services
+-  Ask me about **FastAPI, Elasticsearch, Kafka,** or **AI pipeline design**
 
 <br>
 
----
-
-## Right now
-
-At **Salhakar AI**, architecting a legal research platform that searches across 17M+ court judgements in real time — API design, query performance, and reliability under load are what I obsess over daily.
-
-```diff
-+ Building search & retrieval infra at Salhakar AI
-+ Sharpening Go for high-performance services
-+ Open to talk: FastAPI internals, Elasticsearch tuning, event-driven design
-```
-
-<br>
-
----
-
-## How I build things
+## Tech Stack
 
 <table>
 <tr>
@@ -91,51 +81,39 @@ At **Salhakar AI**, architecting a legal research platform that searches across 
 
 <br>
 
----
+## Experience
 
-## Where I've worked
+**Software Development Engineer – I** · Salhakar AI
+&nbsp;&nbsp;<sub>Jan 2026 – Present</sub>
+> Leading backend engineering for a legal research platform — system design, scalability planning, and architecture. Built FastAPI services for continuous data ingestion, optimized PostgreSQL across 17M+ records, and integrated Elasticsearch, Kafka, and Redis for fast, fault-tolerant search at scale.
 
-**Software Development Engineer I** — Salhakar AI
-`Jan 2026 — Present`
-Leading backend engineering for a legal research platform: system design, scalability planning, architecture. Built FastAPI services for continuous data ingestion, optimized PostgreSQL across 17M+ records, and wired up Elasticsearch, Kafka, and Redis for fast, fault-tolerant search at scale.
+**Software Development Engineer – I, Part-Time** · Aarogram
+&nbsp;&nbsp;<sub>Nov 2025 – Dec 2026</sub>
+> Built backend integrations for webhook and AI-driven communication workflows, including an AI voice agent handling 1,000+ concurrent requests with low latency.
 
-**Software Development Engineer I, Part-Time** — Aarogram
-`Nov 2025 — Dec 2026`
-Built backend integrations for webhook and AI-driven communication workflows, including an AI voice agent handling 1,000+ concurrent requests with low latency.
+**AI/ML & Backend Developer** · Asynzx Computing
+&nbsp;&nbsp;<sub>Jan 2025 – Nov 2025</sub>
+> Designed databases supporting 10K+ students and built end-to-end face recognition pipelines — from data collection through training to inference. Deployed inference results via FastAPI on AWS, with Kafka and Redis powering event-driven processing.
 
-**AI/ML & Backend Developer** — Asynzx Computing
-`Jan 2025 — Nov 2025`
-Designed databases supporting 10K+ students and built end-to-end face recognition pipelines, from data collection through training to inference. Deployed via FastAPI on AWS, with Kafka and Redis powering event-driven processing.
+**AI Prompt Engineer, Part-Time** · Outlier AI
+&nbsp;&nbsp;<sub>Sep 2024 – Sep 2025</sub>
+> Worked on prompt engineering, validation, and annotation to improve model response quality. Served as Pod Lead, reviewing submissions and guiding peers.
 
-**AI Prompt Engineer, Part-Time** — Outlier AI
-`Sep 2024 — Sep 2025`
-Prompt engineering, validation, and annotation to improve model response quality. Pod Lead — reviewed submissions and guided peers.
 
-<br>
-
----
-
-## Activity
+## GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevv28&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true&hide_title=true&custom_title=Contribution%20Activity" width="90%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" width="85%" />
 </p>
 
 <br>
 
----
+## Education
 
-## Background
-
-**B.E., Information Technology** (IoT specialization) — CVM University
+**B.E. in Information Technology**, specialization in IoT — CVM University
 
 <br>
 
 <div align="center">
-<sub>Reach out if you want to talk backend architecture, search infra, or AI pipeline design.</sub>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=90&section=footer" width="100%"/>
 </div>
