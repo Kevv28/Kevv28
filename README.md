@@ -40,17 +40,54 @@ At **Salhakar AI**, architecting a legal research platform that searches across 
 
 ## How I build things
 
-Instead of a badge wall, here's the actual stack broken down by what it's *for*:
+<table>
+<tr>
+<td valign="top" width="33%">
 
-| Layer | Tools |
-|---|---|
-| **Languages** | Python &middot; Go |
-| **Serving** | FastAPI &middot; Django &middot; Flask |
-| **Storage** | PostgreSQL &middot; MongoDB &middot; Redis |
-| **Search** | Elasticsearch |
-| **Streaming** | Kafka |
-| **ML / AI** | TensorFlow &middot; scikit-learn &middot; OpenCV &middot; LangChain |
-| **Infra** | AWS &middot; Docker &middot; Git |
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+
+**Backend**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**Data & Search**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**Messaging**
+
+![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
+
+</td>
+<td valign="top" width="33%">
+
+**AI / ML**
+
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+</td>
+</tr>
+</table>
 
 <br>
 
@@ -81,7 +118,12 @@ Prompt engineering, validation, and annotation to improve model response quality
 ## Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true&hide_title=true" width="90%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevv28&theme=tokyonight&hide_border=true" height="165" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true&hide_title=true&custom_title=Contribution%20Activity" width="90%" />
 </p>
 
 <br>
