@@ -19,7 +19,7 @@
 
 ## About
 
-I build backend systems and AI/ML pipelines that hold up at scale. Right now I'm at **Salhakar AI**, architecting a legal research platform that searches across 15M+ court judgements in real time. I care about clean API design, query performance, and systems that stay reliable under load.
+I build backend systems and AI/ML pipelines that hold up at scale. Right now I'm at **Salhakar AI**, architecting a legal research platform that searches across 18M+ court judgements in real time. I care about clean API design, query performance, and systems that stay reliable under load.
 
 -  Currently building search & retrieval infrastructure at **Salhakar AI**
 -  Contributed to AI-driven backend workflows at **Aarogram** 
