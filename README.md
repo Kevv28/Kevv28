@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Kevil 👋
+# Hi, I'm Kevil 
 
 ### Software Development Engineer · AI/ML Systems · Backend Architecture
 
