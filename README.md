@@ -83,7 +83,7 @@ I build backend systems and AI/ML pipelines that hold up at scale. Right now I'm
 
 ## Experience
 
-### **Software Development Engineer – I** · [Salhakar AI](https://www.linkedin.com/company/salhakar-ai/)
+### **Founding Engineer** · [Salhakar AI](https://www.linkedin.com/company/salhakar-ai/)
 **Jan 2026 – Present** · Gandhinagar, Gujarat, India · Hybrid
 
 1. Leading backend engineering for an AI-powered legal research platform, taking ownership of system architecture, scalability, deployment, and production readiness for a platform managing **18M+ judgments and 11K+ legal acts** with continuous daily data updates.
