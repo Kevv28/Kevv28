@@ -1,210 +1,113 @@
 <div align="center">
 
-# Hi, I'm Kevil 
+```
+ _  __ _______     _____ _
+| |/ /| ____\ \   / /_ _| |
+| ' / |  _|  \ \ / / | || |
+| . \ | |___  \ V /  | || |___
+|_|\_\|_____|  \_/  |___|_____|
+```
 
-### Software System Engineer · AI/ML Systems · Backend Architecture
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=B8BB26&center=true&vCenter=true&width=600&lines=kevil%40anand%3A~%24+whoami;Software+Systems+Engineer+%C2%B7+AI%2FML+%C2%B7+Backend;kevil%40anand%3A~%24+cat+stack.txt;FastAPI+%7C+Elasticsearch+%7C+Kafka+%7C+Go;kevil%40anand%3A~%24+_" alt="Terminal typing" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=560&lines=Building+scalable+backend+systems;Architecting+AI%2FML+pipelines;FastAPI+%C2%B7+Elasticsearch+%C2%B7+Kafka+%C2%B7+Go" alt="Typing SVG" />
+<br>
 
-📍 Anand, Gujarat &nbsp;·&nbsp; ✉️ kevilrana28@gmail.com
-
-<a href="https://www.linkedin.com/in/kevil-rana/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Kevv28"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-<a href="mailto:kevilrana28@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-<a href="http://kevilbuilds.me/kevil-portfolio/"><img src="https://img.shields.io/badge/Portfolio-00D9FF?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/kevil-rana/"><img src="https://img.shields.io/badge/LinkedIn-458588?style=flat-square&logo=linkedin&logoColor=ebdbb2" /></a>
+<a href="https://github.com/Kevv28"><img src="https://img.shields.io/badge/GitHub-282828?style=flat-square&logo=github&logoColor=ebdbb2" /></a>
+<a href="mailto:kevilrana28@gmail.com"><img src="https://img.shields.io/badge/Email-cc241d?style=flat-square&logo=gmail&logoColor=ebdbb2" /></a>
+<a href="http://kevilbuilds.me/kevil-portfolio/"><img src="https://img.shields.io/badge/Portfolio-d79921?style=flat-square&logo=googlechrome&logoColor=282828" /></a>
 
 </div>
 
 <br>
 
-## About
+## ~/about
 
-I build backend systems and AI/ML pipelines that hold up at scale. Right now I'm at **Salhakar AI**, architecting a legal research platform that searches across 18M+ court judgements in real time. I care about clean API design, query performance, and systems that stay reliable under load.
+```bash
+$ cat about.txt
+Backend engineer building search, retrieval, and AI pipelines that stay
+fast and reliable under load. Currently shipping legal research infra
+over 18M+ judgments.
 
--  Currently building search & retrieval infrastructure at **Salhakar AI**
--  Contributed to AI-driven backend workflows at **Aarogram** 
--  Deepening my **Go** skills for high-performance services
--  Ask me about **FastAPI, Elasticsearch, Kafka,** or **AI pipeline design**
-
-<br>
-
-## Tech Stack
-
-<table>
-<tr>
-<td valign="top" width="33%">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
-**Backend**
-
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**Data & Search**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-
-**Messaging**
-
-![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**AI / ML**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
-
-**Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-</td>
-</tr>
-</table>
+$ uname -a
+Kevil Rana · Anand, Gujarat, IN · Hybrid · Open to backend & AI roles
+```
 
 <br>
 
-## Experience
+## ~/experience
 
-### **Software System Engineer** · [Salhakar AI](https://www.linkedin.com/company/salhakar-ai/)
-**Jan 2026 – Present** · Gandhinagar, Gujarat, India · Hybrid
+**Software Systems Engineer** · *[Company]* · `Aug 2026 – Present`
+- Optimizing API latency, database queries, and Elasticsearch indexing.
+- Building auth, token validation, rate limiting, and bot prevention.
+- Monitoring production services to find bottlenecks and raise reliability.
 
-1. Leading backend engineering for an AI-powered legal research platform, taking ownership of system architecture, scalability, deployment, and production readiness for a platform managing **18M+ judgments and 11K+ legal acts** with continuous daily data updates.
+**Software System Engineer** · [Salhakar AI](https://www.linkedin.com/company/salhakar-ai/) · `Jan 2026 – Present`
+- Lead backend for an AI legal research platform: 18M+ judgments, 11K+ acts.
+- Secure FastAPI services with auth and rate limiting; ~2–3 ms search responses.
+- Run ETL and web-extraction pipelines with daily incremental sync.
+- Integrate LLMs, RAG, and inference services into production.
 
-2. Designing and securing **FastAPI-based APIs** with route protection, authentication, token validation, rate limiting, and bot prevention while handling concurrent AI-driven requests with low-latency performance.
+**Software Development Engineer I (Part-Time)** · [Aarogram](https://www.linkedin.com/company/aarogram/) · `Nov 2025 – Dec 2026`
+- Built an AI voice agent handling 1,000+ concurrent requests.
+- Designed FastAPI services for LLM inference, speech processing, and webhooks.
 
-3. Building and optimizing **ETL pipelines and automated web data extraction systems** to ingest, process, and synchronize legal judgments and acts with daily incremental updates.
+**AI/ML & Backend Developer** · [Asynzx Computing](https://www.linkedin.com/company/asynzx-computing/) · `Jan 2025 – Nov 2025`
+- Shipped computer vision and face recognition pipelines (Dlib, CNN, OpenCV).
+- Deployed FastAPI inference APIs on AWS for 10K+ users.
 
-4. Optimizing **PostgreSQL queries and indexing strategies** across large datasets to reduce query latency and improve reliability for large-scale legal data retrieval.
+**AI Prompt Engineer** · [Outlier AI](https://www.linkedin.com/company/outlier-ai/) · `Sep 2024 – Sep 2025`
+- Evaluated and annotated model outputs; debugged Python evaluation scripts. Led a pod reviewing peer work.
 
-5. Managing **Elasticsearch indexing and retrieval pipelines**, optimizing search queries and maintaining indices for high-performance natural-language legal search with typical response times of **2–3 ms**.
+**Python Developer Intern** · [Ultron Technologies](https://www.linkedin.com/company/ultron-technologies/) · `May 2024`
+- Python development and data analysis.
 
-6. Working with **Redis, Kafka, and backend infrastructure** to support high-throughput and reliable AI workloads.
+<br>
 
-7. Collaborating with AI/ML teams to integrate **LLMs, RAG pipelines, AI agents, retrieval workflows, and AI inference services** into production legal research applications.
+## ~/stack
 
----
+```bash
+$ ls ./skills/
+```
 
-### **Software Development Engineer – I, Part-Time** · [Aarogram](https://www.linkedin.com/company/aarogram/)
-**Nov 2025 – Dec 2026** · Vadodara, Gujarat, India · Hybrid
+| Category | Tools |
+|---|---|
+| **Languages** | ![Python](https://img.shields.io/badge/Python-458588?style=flat-square&logo=python&logoColor=ebdbb2) ![Go](https://img.shields.io/badge/Go-83a598?style=flat-square&logo=go&logoColor=282828) ![JavaScript](https://img.shields.io/badge/JavaScript-d79921?style=flat-square&logo=javascript&logoColor=282828) |
+| **Backend** | ![FastAPI](https://img.shields.io/badge/FastAPI-689d6a?style=flat-square&logo=fastapi&logoColor=ebdbb2) ![Django](https://img.shields.io/badge/Django-427b58?style=flat-square&logo=django&logoColor=ebdbb2) ![Flask](https://img.shields.io/badge/Flask-3c3836?style=flat-square&logo=flask&logoColor=ebdbb2) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-83a598?style=flat-square&logo=react&logoColor=282828) ![Vite](https://img.shields.io/badge/Vite-b57614?style=flat-square&logo=vite&logoColor=ebdbb2) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-427b58?style=flat-square&logo=tailwindcss&logoColor=ebdbb2) |
+| **Data & Search** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-458588?style=flat-square&logo=postgresql&logoColor=ebdbb2) ![MongoDB](https://img.shields.io/badge/MongoDB-689d6a?style=flat-square&logo=mongodb&logoColor=ebdbb2) ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-076678?style=flat-square&logo=elasticsearch&logoColor=ebdbb2) ![Redis](https://img.shields.io/badge/Redis-cc241d?style=flat-square&logo=redis&logoColor=ebdbb2) |
+| **Messaging** | ![Kafka](https://img.shields.io/badge/Apache_Kafka-3c3836?style=flat-square&logo=apachekafka&logoColor=ebdbb2) |
+| **AI / ML** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-d65d0e?style=flat-square&logo=tensorflow&logoColor=ebdbb2) ![OpenCV](https://img.shields.io/badge/OpenCV-458588?style=flat-square&logo=opencv&logoColor=ebdbb2) ![scikit-learn](https://img.shields.io/badge/scikit--learn-d79921?style=flat-square&logo=scikitlearn&logoColor=282828) ![LangChain](https://img.shields.io/badge/LangChain-689d6a?style=flat-square&logo=chainlink&logoColor=ebdbb2) ![OpenAI](https://img.shields.io/badge/OpenAI_API-3c3836?style=flat-square&logo=openai&logoColor=ebdbb2) |
+| **Techniques** | `LLMs` · `RAG` · `AI Agents` · `Computer Vision` · `Face Recognition (Dlib, CNN)` · `Speech Processing` · `ETL` · `Query Optimization` · `Event-Driven Design` |
+| **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-d79921?style=flat-square&logo=amazonaws&logoColor=282828) ![Docker](https://img.shields.io/badge/Docker-458588?style=flat-square&logo=docker&logoColor=ebdbb2) ![Git](https://img.shields.io/badge/Git-d65d0e?style=flat-square&logo=git&logoColor=ebdbb2) |
 
-1. Developed backend workflows, webhook integrations, and AI-driven communication systems.
+<br>
 
-2. Built a production **AI voice agent** capable of handling **1,000+ concurrent requests** with low-latency speech processing and LLM inference.
+## ~/education
 
-3. Designed scalable **FastAPI services** to manage LLM inference, speech processing, and external AI APIs.
+```
+B.E. Information Technology (IoT specialization) · CVM University
+```
 
-4. Built webhook and event-driven workflows for automated AI communication and real-time backend processing.
+<br>
 
-5. Improved system reliability, security, and execution efficiency by reducing unnecessary processing and optimizing backend workflows.
-
----
-
-### **AI/ML & Backend Developer** · [Asynzx Computing](https://www.linkedin.com/company/asynzx-computing/)
-**Jan 2025 – Nov 2025** · Remote
-
-1. Developed end-to-end **Computer Vision and face recognition pipelines**, covering data collection, image preprocessing, model training, inference, and production deployment.
-
-2. Worked with different face recognition approaches including **Dlib, CNN-based models, and OpenCV-based face detection**, testing and improving the system for real-world conditions.
-
-3. Built and deployed **FastAPI inference APIs** for real-time face detection, recognition, and verification.
-
-4. Designed backend systems supporting applications with **10K+ users**, with a focus on API performance, reliability, and scalable inference.
-
-5. Integrated AI models into production systems using **Redis, AWS, and scalable backend architectures**.
-
-6. Worked on AI-driven automation systems involving **voice processing, computer vision, and intelligent feedback workflows**.
-
-7. Built AI-powered meeting and digital interaction workflows using **LangChain, OpenAI APIs, and agent-based systems**.
-
-8. Deployed, monitored, and optimized AI services on **AWS**, improving reliability and inference performance.
-
-9. Worked with frontend and backend technologies including **React, Vite, Tailwind CSS, Flask, FastAPI, Python, and JavaScript**.
-
-10. Researched and experimented with emerging AI tools for **voice synthesis, computer vision, AI automation, and intelligent feedback systems**.
-
----
-
-### **AI Prompt Engineer, Part-Time** · [Outlier AI](https://www.linkedin.com/company/outlier-ai/)
-**Sep 2024 – Sep 2025** · Remote
-
-#### **AI Prompt Engineer / Data Annotator**
-**Sep 2024 – Sep 2025**
-
-1. Worked on **prompt engineering, validation, annotation, and AI evaluation** to improve model response quality.
-
-2. Created and reviewed prompts for AI models and tested responses for correctness and consistency.
-
-3. Debugged **Python-based evaluation scripts and AI reasoning workflows** to identify and fix errors.
-
-4. Worked on mathematical and logical reasoning tasks using AI models and analytical thinking.
-
-#### **Pod Lead**
-**Feb 2025 – Apr 2025**
-
-1. Managed and reviewed peer submissions related to AI prompts and evaluation tasks.
-
-2. Guided team members and maintained quality standards across submitted work.
-
-3. Reviewed prompts and Python-based tasks to ensure correctness and consistency.
-
----
-
-### **Python Developer Intern** · [Ultron Technologies](https://www.linkedin.com/company/ultron-technologies/)
-**May 2024** · Anand, Gujarat, India · On-site
-
-1. Worked on Python development and basic data analysis tasks.
-
-2. Developed and tested Python-based solutions as part of the internship.
-
-3. Gained practical experience in Python programming, debugging, and application development.
-
-## GitHub Analytics
+## ~/stats
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=tokyo-night&hide_border=true&area=true" width="85%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Kevv28&show_icons=true&hide_border=true&theme=gruvbox&title_color=b8bb26&icon_color=fabd2f&text_color=ebdbb2&bg_color=282828" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevv28&layout=compact&hide_border=true&theme=gruvbox&title_color=b8bb26&text_color=ebdbb2&bg_color=282828" height="150" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Kevv28&theme=gruvbox&hide_border=true&area=true" width="85%" />
 </p>
 
 <br>
 
-## Education
-
-**B.E. in Information Technology**, specialization in IoT — CVM University
-
-<br>
-
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00D9FF&height=90&section=footer" width="100%"/>
+
+```
+$ exit 0   # thanks for visiting · ping me on LinkedIn or email
+```
+
 </div>
-
-i want to make it look like retro linux based and here is new things for you
-[Software Systems Engineer](https://www.linkedin.com/in/kevil-rana/edit/forms/position/3016794079/)
-[Aug 2026 - Present · 2 mos](https://www.linkedin.com/in/kevil-rana/edit/forms/position/3016794079/)
-1)Optimizing backend performance by improving API response times, database queries, indexing, and search workflows. 
- 
-2)Implementing API security through authentication, token validation, route protection, rate limiting, and bot prevention. 
- 
-3)Monitoring backend APIs, database performance, Elasticsearch queries, and production services to identify bottlenecks, failures, and performance issues, and working on optimizations to improve system reliability.
- 
-4)Working with PostgreSQL and Elasticsearch to improve data retrieval, indexing, and search performance across large legal datasets, including exploring adaptive indexing strategies based on query patterns and workload behavior.
- 
-5)Collaborating with AI/ML teams on LLM integration, retrieval pipelines, and AI inference services for legal research features.
-
-add it and kept exp short crips and tech stack include everythig
